@@ -1,4 +1,4 @@
-# Concerts Database Project
+# SQL Concerts Database Project
 
 This project implements a relational database for managing concert-related information such as artists, events, venues, and ticket sales. It is structured using normalised SQL schema design principles and includes full data population scripts.
 
